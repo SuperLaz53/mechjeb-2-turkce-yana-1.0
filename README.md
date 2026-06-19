@@ -96,3 +96,6 @@ Kalan çalışmalar yalnızca küçük kalite kontrol ve DLL
 kaynaklı birkaç İngilizce ifadeden oluşmaktadır.
 
 İyi uçuşlar Kerbonot! 🚀
+
+Kurulum:
+GameData\MechJeb2\Localization\ klasöründeki en-us.cfg dosyasının yedeğini alın ve Türkçe yama dosyasını bu klasöre kopyalayarak üzerine yazın.
