@@ -1,12 +1,98 @@
-# mechjeb-2-turkce-yana-1.0
-MechJeb 2 Türkçe Yama  MechJeb 2'nin Türkçe yerelleştirme çalışması. Ana modüller, bilgi ekranları, otopilot sistemleri ve araç pencereleri Türkçeleştirilmiştir. KSP topluluğunun kullandığı teknik terimler korunmuş, arayüz Türkçe kullanım için düzenlenmiştir.
-MechJeb 2 için kapsamlı Türkçe çeviri ve yerelleştirme çalışması.
+MECHJEB 2 TÜRKÇE YAMA v14 NİHAİ SÜRÜM
 
-✓ Ana modüller Türkçeleştirildi
-✓ Bilgi ekranları düzenlendi
-✓ Otopilot ve rehber sistemleri çevrildi
-✓ KSP teknik terimleri korundu
-✓ Arayüz ve durum mesajları iyileştirildi
+Hazırlayan: Tevfik SANDIKÇI
 
-Durum: %98-99 tamamlandı.
-Kalanlar: Son kalite kontrol ve birkaç DLL kaynaklı ifade.
+KURULUM
+Oyunu kapatın.
+Mevcut dil dosyanızın yedeğini alın:
+
+GameData\MechJeb2\Localization\en-us.cfg
+
+Bu paket içindeki Türkçe CFG dosyasını aynı klasöre kopyalayın.
+Gerekirse mevcut dosyanın üzerine yazın.
+Oyunu başlatın.
+ÇEVİRİ STANDARTLARI
+Ana menüler Türkçeleştirildi.
+Bilgi ekranları Türkçeleştirildi.
+Hata ve durum mesajları düzenlendi.
+KSP topluluğunun kullandığı teknik terimler korundu.
+
+Korunan terimler:
+
+RCS
+SAS
+PVG
+RSS
+RO
+TWR
+Delta-V
+AoA
+AoS
+AoD
+AN
+DN
+
+TAMAMLANAN BÖLÜMLER
+
+✓ Fırlatma Rehberi
+✓ İniş Rehberi
+✓ Smart A.S.S.
+✓ SmartRCS
+✓ Manevra Planlayıcısı
+✓ Manevra Düğümü Düzenleyicisi
+✓ Buluşma Planlayıcısı
+✓ Kenetlenme Otopilotu
+✓ Warp Yardımcısı
+✓ Yardımcı Araçlar
+✓ Uçuş Kaydedici
+✓ Bilgi Ekranları
+
+Bilgi Ekranları:
+
+✓ Atmosfer Bilgileri
+✓ Araç Bilgileri
+✓ Yörünge Bilgileri
+✓ Yüzey Bilgileri
+✓ Hedef Yörünge Bilgileri
+✓ Buluşma Bilgileri
+✓ İniş Bilgileri
+
+SON DÜZENLEMELER
+
+Override
+→ Maksimum İtki
+
+Suicide Burn
+→ Frenleme Yanışı
+
+Suicide Burn Countdown
+→ Frenleme Yanışı Geri Sayımı
+
+Keep Throttle Above This Value
+→ Minimum Gaz Oranı
+
+Surface TWR
+→ Yüzey TWR
+
+Jet Flameout Prevention
+→ Jet Motorunun Sönmesini Önle
+
+BİLİNEN SINIRLAMALAR
+
+Aşağıdaki ifadeler CFG dosyalarında bulunamadığı için
+çevirilememiştir ve büyük ihtimalle DLL içinde yer almaktadır:
+
+PVG Settings
+Ascent Settings
+Flight Path Angle
+Override Warp to Plane
+Reset to PVG/RO Defaults
+DURUM
+
+Türkçeleştirme Durumu: %98-99
+
+Bu sürüm nihai sürüm olarak yayınlanmıştır.
+Kalan çalışmalar yalnızca küçük kalite kontrol ve DLL
+kaynaklı birkaç İngilizce ifadeden oluşmaktadır.
+
+İyi uçuşlar Kerbonot! 🚀
